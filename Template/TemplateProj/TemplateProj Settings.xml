@@ -1,0 +1,2032 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE Avid:StreamItems SYSTEM "AvidSettingsFile.dtd">
+<Avid:StreamItems xmlns:Avid="http://www.avid.com">
+
+  <Avid:XMLFileData>
+    <AvProp name="DomainMagic" type="string">Domain</AvProp>
+    <AvProp name="DomainKey" type="char4">58424a44</AvProp>
+    <AvClass id="SETG"/>
+    <AvClass id="AMMS">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Audio Multi-Mix</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">123</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_NUM_INPUT_TRACKS</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">24</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_NUM_OUTPUT_CHANNELS</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">24</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_MIXDOWN_OPTIONS</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">9</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT3</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT3</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS3</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL3</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS3</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT5</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT5</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS5</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL5</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS5</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT6</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT6</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS6</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL6</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS6</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT7</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT7</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS7</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL7</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS7</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT9</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT9</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS9</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL9</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS9</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT10</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT10</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS10</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL10</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS10</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT11</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT11</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS11</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL11</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS11</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT12</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT12</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS12</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL12</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS12</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT13</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT13</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS13</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL13</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS13</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT14</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT14</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS14</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL14</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS14</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT15</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT15</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS15</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL15</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS15</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT16</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT16</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS16</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL16</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS16</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT17</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT17</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS17</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL17</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS17</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT18</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT18</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS18</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL18</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS18</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT19</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT19</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS19</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL19</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS19</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT20</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT20</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS20</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL20</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS20</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT21</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT21</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS21</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL21</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS21</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT22</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT22</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS22</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL22</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS22</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT23</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT23</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS23</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL23</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS23</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_TRACK_FORMAT24</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_FIRST_LINKED_OUTPUT24</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_CONTRIBUTING_INPUTS24</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">000000000000000000000000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_LABEL24</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_AOML_OUTPUT_OPTIONS24</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="AUDP">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Audio Project</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_iBaseSampleRate" type="int32">48000</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_SyncSource" type="int32">-1</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_InputSource" type="int32">0</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_DigitalFormat" type="int32">0</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_iReferenceLevel" type="int32">-20</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_iCalToneFreq" type="int32">1000</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_iCalToneLevelInDBs" type="double">-20.000000</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_InputGainAttenuation" type="int32">-1</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_IsProLevelOn" type="Boolean">TRUE</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_InputSourceName" tag="1" type="string">no source</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_SampleRateConvQualityLevel" tag="2" type="int32">1</AvProp>
+      <AvProp id="AUDP" name="AudioProjectSetting_SampleRateConvDuringPlay" tag="3" type="Boolean">TRUE</AvProp>
+      <AvProp id="ASET" name="attrList" tag="3" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">39</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioHWcalibration</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">3</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioInputAttenZero</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioTrkMaps</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"> /8/1/1/2/3/4/5/6/7/8/1/2/3/4/5/6/7/8/1/2/3/4/5/6/7/8/1/2/3/4/5/6/7/8</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioStereoOutPair</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMonoOutPair</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_Audio51OutPair</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_Audio71OutPair</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMismatchSampleColor</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioDVAudioPattern</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMediaSampleRate</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">48000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioFileFormat</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMediaBitsPerSample</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">16</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_PSETG_AudioInputSourceKey</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">AudioIn_Windows Mixer</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioSampleRateConvQual</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioSampleRateConvPlay</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioSyncSource</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioSyncToInput</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioDigitalFormat</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioReferenceLevel</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-20</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioCalToneFreq</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioInputGainAtten</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioIsProLevelOn</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioCalTonedbLevel</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 0 0 0 0 0 0 34 c0 </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_RTaudioDissolvePerfMode</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioDissolveMidPoint</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioADATConnection</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioOutputGainAtten</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4194304</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_SRCPermission</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMixWindowMode</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMixTracksShown</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioPunchInRemoveFill</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_PunchInPassthroughMode</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioSplitClocks</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioMixMode</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioTrimGain</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioAllow16Outputs</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudioSurround</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_Audio51Order</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_Audio71Order</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="RUst">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Cloud Upload</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">0</AvProp>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="DRkW">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Dynamic Relink</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Dynamic Relink</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iRelinkMethod" type="int32">4</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iRelinkIfQuality" type="int32">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iRelinkRes" type="int32">1237</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoPreferredMediaType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoRelinkAMAMode" type="int32">4</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoProjType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoRasterType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkMethod" type="int32">5</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkIfSampleRate" type="int32">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkSampleRateValue" type="int32">48000</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkIfBitDepth" type="int32">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkBitDepthValue" type="int32">16</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkIfComp" type="int32">1</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioPreferredMediaType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iNoMatchAction" type="int16">3</AvProp>
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Dynamic Relink</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iRelinkMethod" type="int32">4</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iRelinkIfQuality" type="int32">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iRelinkRes" type="int32">1237</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoPreferredMediaType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoRelinkAMAMode" type="int32">4</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoProjType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iVideoRasterType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkMethod" type="int32">5</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkIfSampleRate" type="int32">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkSampleRateValue" type="int32">48000</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkIfBitDepth" type="int32">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkBitDepthValue" type="int32">16</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioRelinkIfComp" type="int32">1</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iAudioPreferredMediaType" type="int32">0</AvProp>
+      <AvProp id="DRkS" name="DynRelinkSetting_iNoMatchAction" type="int16">2</AvProp>
+      <AvProp id="DRkS" name="DynRelinkWrapper_iDynamicRelinkEnabled" type="Boolean">FALSE</AvProp>
+      <AvProp id="DRkS" name="DynRelinkWrapper_iTgtOverrideEnabled" type="Boolean">FALSE</AvProp>
+      <AvProp id="DRkS" name="DynRelinkWrapper_iEnableClipColoring" type="Boolean">TRUE</AvProp>
+      <AvProp id="DRkS" name="DynRelinkWrapper_iEnableRenderLines" type="Boolean">TRUE</AvProp>
+      <AvProp id="DRkS" name="DynRelinkWrapper_iTimelineDisplayState" type="int32">0</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">1</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ALLOW_MIXED_RATES</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">15</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_RLKMETHOD</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_IF_QUALITY</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_RESOLUTION</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_PREFTYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_AMA_MODE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_PROJFMT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">9</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_RLKMETHOD</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">5</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_IF_SR</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_SMPLRATE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">48000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_IF_BITDEPTH</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_BITDEPTH</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">16</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_IF_COMP</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_PREFTYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_AMA_MODE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_NOMATCHACTION</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">3</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">15</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_RLKMETHOD</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_IF_QUALITY</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_RESOLUTION</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_PREFTYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_AMA_MODE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_VIDEO_PROJFMT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">9</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_RLKMETHOD</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">5</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_IF_SR</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_SMPLRATE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">48000</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_IF_BITDEPTH</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_BITDEPTH</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">16</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_IF_COMP</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_PREFTYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_AUDIO_AMA_MODE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DYNRELINK_NOMATCHACTION</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="FMst">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Film and 24P</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="FMst" name="iInkNumFilmType" type="int16">3</AvProp>
+      <AvProp id="FMst" name="iInkNumEdgeType" type="uchar">1</AvProp>
+      <AvProp id="FMst" name="iCadence" type="uchar">1</AvProp>
+      <AvProp id="FMst" name="iAudioXferRate" type="uchar">1</AvProp>
+      <AvProp id="FMst" name="iTCFormat" type="uchar">1</AvProp>
+      <AvProp id="FMst" name="iDATTCFormat" type="uchar">1</AvProp>
+      <AvProp id="FMst" name="iAuxInkNumFilmType" type="int16">3</AvProp>
+      <AvProp id="FMst" name="iAuxInkNumEdgeType" type="uchar">1</AvProp>
+      <AvProp id="FMst" name="iEditPlayRateNTSC" tag="1" type="Boolean">TRUE</AvProp>
+      <AvProp id="FMst" name="iEditPlayRatePAL" tag="2" type="uchar">2</AvProp>
+      <AvProp id="FMst" name="iAFrameLoc" tag="4" type="int16">1</AvProp>
+      <AvProp id="FMst" name="iAFrameOn" tag="3" type="Boolean">TRUE</AvProp>
+      <AvProp id="FMst" name="iMasNumFilmType" tag="5" type="int16">2</AvProp>
+      <AvProp id="FMst" name="iMasNumEdgeType" tag="6" type="uchar">1</AvProp>
+      <AvProp id="ASET" name="attrList" tag="6" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">0</AvProp>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="GENS">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">General</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="GENS" name="iVideoFormat" type="uchar">5</AvProp>
+      <AvProp id="GENS" name="iSourceFormat" type="uchar">2</AvProp>
+      <AvProp id="GENS" name="iFilmType" type="uchar">0</AvProp>
+      <AvProp id="GENS" name="iDriveFilter" type="uchar">0</AvProp>
+      <AvProp id="GENS" name="iStartTCBuf" type="string">01:00:00:00</AvProp>
+      <AvProp id="GENS" name="iStartECBuf" type="string">001-00000+00</AvProp>
+      <AvProp id="GENS" name="iFPS24" type="Boolean">FALSE</AvProp>
+      <AvProp id="GENS" name="iFilmEditing" type="Boolean">FALSE</AvProp>
+      <AvProp id="GENS" name="vRate" type="float">0.000000</AvProp>
+      <AvProp id="GENS" name="audioClock" type="uchar">0</AvProp>
+      <AvProp id="GENS" name="audioRate" type="uchar">0</AvProp>
+      <AvProp id="GENS" name="vcID" type="uchar">0</AvProp>
+      <AvProp id="GENS" name="videoModifier" type="uchar">0</AvProp>
+      <AvProp id="GENS" name="iHasSetup" type="uchar">1</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">17</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_HIGHFPSTCDISPLAY</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_MATCHBACK</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_TRUE24FPS</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_PROJTYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">9</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_HDRASTERWIDTH</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1920</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_VIDEO_FORMAT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">5</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_SOURCE_FORMAT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">2</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_FILM_TYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_DRIVE_FILTER</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_START_TC_BUF</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">01:00:00:00</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_START_EC_BUF</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">001-00000+00</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_FILM_EDITING</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_NTSC_HAS_SETUP</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_TEMP_DIRECTORY_UTF16</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">36</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">36 0 0 43 3a 5c 55 73 65 72 73 5c 49 67 6f 72 5c 41 70 70 44 61 74 61 5c 4c 6f 63 61 6c 5c 54 65 6d 70 5c 0 </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_WINFILENAMES</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_SRC_MULTICAM_SPLIT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">GSET_REC_MULTICAM_SPLIT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="MMpr">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Interplay Folder</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">3</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATS_MM_PROJECT_DIRECTORY_NAME</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string"></AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATS_MM_APPEND_PROJECT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATS_MM_VERIFY_DIRECTORY</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="LocS">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Locator</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">5</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Show_Images</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Show_Metasync</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Show_Type</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Disable_Popup</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Image_Col_Width</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">100</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="MeCr">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Media Creation</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="MeCr" name="numSpecifiers" type="int16">6</AvProp>
+      <AvProp id="MeCr" name="vcid_t" type="uint32">551d</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string">RAID (D:)</AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="VideoUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string"></AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="AudioUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="AudioUsesVideo" type="Boolean">TRUE</AvProp>
+      <AvProp id="MeCr" name="vcid_t" type="uint32">1237d</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string">RAID (D:)</AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="VideoUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string"></AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="AudioUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="AudioUsesVideo" type="Boolean">TRUE</AvProp>
+      <AvProp id="MeCr" name="vcid_t" type="uint32">1237d</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string">RAID (D:)</AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="VideoUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string"></AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="AudioUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="AudioUsesVideo" type="Boolean">TRUE</AvProp>
+      <AvProp id="MeCr" name="vcid_t" type="uint32">1237d</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string">RAID (D:)</AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="VideoUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string"></AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="AudioUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="AudioUsesVideo" type="Boolean">TRUE</AvProp>
+      <AvProp id="MeCr" name="vcid_t" type="uint32">0d</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string">RAID (D:)</AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="VideoUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string"></AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="AudioUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="AudioUsesVideo" type="Boolean">TRUE</AvProp>
+      <AvProp id="MeCr" name="vcid_t" type="uint32">1237d</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string">RAID (D:)</AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="VideoUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="DriveName" type="string"></AvProp>
+      <AvProp id="MeCr" name="NumVols" type="int16">0</AvProp>
+      <AvProp id="MeCr" name="AudioUsesGroup" type="Boolean">FALSE</AvProp>
+      <AvProp id="MeCr" name="AudioUsesVideo" type="Boolean">TRUE</AvProp>
+      <AvProp id="MeCr" name="AudioMediaDomainType" tag="1" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="AudioMediaDomainType" tag="1" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="AudioMediaDomainType" tag="1" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="AudioMediaDomainType" tag="1" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="AudioMediaDomainType" tag="1" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="AudioMediaDomainType" tag="1" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="VideoMediaDomainType" tag="2" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="VideoMediaDomainType" tag="2" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="VideoMediaDomainType" tag="2" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="VideoMediaDomainType" tag="2" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="VideoMediaDomainType" tag="2" type="int32">4</AvProp>
+      <AvProp id="MeCr" name="VideoMediaDomainType" tag="2" type="int32">4</AvProp>
+      <AvProp id="ASET" name="attrList" tag="2" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">23</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">PRESERVE_SET</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">SAVE_SET</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">SAME_AS_SOURCE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">EXTENDED_PRECISION</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">FILTER_RES</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">FILTER_SYSTEM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">FILTER_LAUNCH</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">AUTO_INDEXING</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ON_INDEXFAILURE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_MCS_ACTIVETAB</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_MCS_SHOW_REZ_MEDIATYPE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_MCS_EMBED_DNX_ANCILLARY_DATA</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_MCS_RELATIME_ANCILLARY_DATA</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_MCS_VIDEODOMAIN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">4</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_MCS_VID_DOMAIN_WAS_OMF</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">3</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">PROJ_VCID_ATTR_LIST</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:ObjAttribute" type="reference">
+                <AvClass id="ATTR">
+                  <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">1</AvProp>
+                  <List id="OMFI:ATTR:AttrRefs">
+                    <ListElem>
+                      <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">3</AvProp>
+                      <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">109811920</AvProp>
+                      <AvProp id="ATTR" name="OMFI:ATTB:ObjAttribute" type="reference">
+                        <AvClass id="ATTR">
+                          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">6</AvProp>
+                          <List id="OMFI:ATTR:AttrRefs">
+                            <ListElem>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC0_VCID</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">551</AvProp>
+                            </ListElem>
+                            <ListElem>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC1_VCID</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+                            </ListElem>
+                            <ListElem>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC2_VCID</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+                            </ListElem>
+                            <ListElem>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC3_VCID</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+                            </ListElem>
+                            <ListElem>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC4_VCID</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+                            </ListElem>
+                            <ListElem>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC5_VCID</AvProp>
+                              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+                            </ListElem>
+                            <ListElem/>
+                          </List>
+                        </AvClass>
+                      </AvProp>
+                    </ListElem>
+                    <ListElem/>
+                  </List>
+                </AvClass>
+              </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC0_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">551</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC1_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC2_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC3_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC4_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_PROJ9_SPEC5_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1237</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">AMA_SP_DEBAYER</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="AUPM">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Passthrough Mix Tool</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">3</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudPTMixer_ChanData</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">294</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">294 35 33 36 38 37 30 39 31 32 20 30 20 30 20 30 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 31 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 32 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 33 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 34 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 35 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 36 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 37 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 38 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 39 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 31 30 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 31 31 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 31 32 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 31 33 3a 35 33 36 38 37 30 39 31 32 20 30 20 30 20 31 34 3a 35 33 36 38 37 30 39 31 32 20 33 32 37 36 38 20 30 20 31 35 3a </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudPTMixer_OutMixChan</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_USETG_AudPTMixer_InMixMode</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="RstS">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Restriction</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">4</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Show_Images</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Show_Type</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Disable_Popup</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_Image_Col_Width</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">100</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="STHD">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">S3D</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">13</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_UnitSystem</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_ViewingDistance</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 0 0 0 0 0 0 24 40 </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_ScreenWidth</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 75 f2 66 30 ed 4b cb 3f </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_RasterResolution</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 0 0 0 0 0 0 9e 40 </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_EyeSeparation</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 0 0 0 0 0 0 4 40 </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DisparityNearAuto</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DisparityNearUnit</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DisparityNear</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 0 0 0 0 0 0 f0 bf </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DisparityFarAuto</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DisparityFarUnit</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DisparityFar</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 0 0 0 0 0 0 0 40 </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DepthLimitNear</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 6e a6 9c bd 6f f0 b9 bf </AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">4</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_DepthLimitFar</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobSize" type="int32">8</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:BobData" type="bytes">8 15 79 38 c 9e c0 ca 3f </AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="SFst">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Safe Colors</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="SFst" name="iComposite_limit_type" type="int32">0</AvProp>
+      <AvProp id="SFst" name="iComposite_limit_units" type="int32">2</AvProp>
+      <AvProp id="SFst" name="iComposite_limit_low" type="double">-20.000000</AvProp>
+      <AvProp id="SFst" name="iComposite_limit_high" type="double">110.000000</AvProp>
+      <AvProp id="SFst" name="iLuminance_limit_type" type="int32">0</AvProp>
+      <AvProp id="SFst" name="iLuminance_limit_units" type="int32">2</AvProp>
+      <AvProp id="SFst" name="iLuminance_limit_low" type="double">16.000000</AvProp>
+      <AvProp id="SFst" name="iLuminance_limit_high" type="double">235.000000</AvProp>
+      <AvProp id="SFst" name="iRGB_limit_type" type="int32">0</AvProp>
+      <AvProp id="SFst" name="iRGB_limit_units" type="int32">0</AvProp>
+      <AvProp id="SFst" name="iRGB_limit_low" type="double">0.000000</AvProp>
+      <AvProp id="SFst" name="iRGB_limit_high" type="double">255.000000</AvProp>
+      <AvProp id="SFst" name="iSafe_Video" type="Boolean">TRUE</AvProp>
+      <AvProp id="SFst" name="iSafe_EffectColors" type="Boolean">FALSE</AvProp>
+      <AvProp id="SFst" name="iSafe_ImportedDSK" type="Boolean">FALSE</AvProp>
+      <AvProp id="SFst" name="iSafe_Titles" type="Boolean">FALSE</AvProp>
+      <AvProp id="SFst" name="iNumWarnings" type="int32">100</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">0</AvProp>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="SRCH">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Search</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">0</AvProp>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="TRGT">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Target</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">17</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">PRJ_BOUNDARY_FRAMES</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ixTargetBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-800</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ixTargetBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iyTargetBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-450</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iyTargetBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iwidthTargetBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1600</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iwidthTargetBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iheightTargetBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">900</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iheightTargetBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ixMaskBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-800</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ixMaskBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iyMaskBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">-450</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iyMaskBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iwidthMaskBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1600</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iwidthMaskBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iheightMaskBox_NUM</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">900</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">iheightMaskBox_DEN</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="MONI">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Video Display</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="MONI" name="iMonitorMode" type="int16">1</AvProp>
+      <AvProp id="MONI" name="iDVCameraHasVideoInput" type="int16">1</AvProp>
+      <AvProp id="MONI" name="iOverlayInput" type="int16">0</AvProp>
+      <AvProp id="MONI" name="iVideoInput" type="int16">0</AvProp>
+      <AvProp id="MONI" name="iBrightnessValue" type="int16">128</AvProp>
+      <AvProp id="MONI" name="iContrastValue" type="int16">199</AvProp>
+      <AvProp id="MONI" name="iSaturationValue" type="int16">192</AvProp>
+      <AvProp id="MONI" name="iHueValue" type="int16">128</AvProp>
+      <AvProp id="MONI" name="iSharpnessValue" type="int16">1</AvProp>
+      <AvProp id="MONI" name="iUseOGLHardware" type="int16">1</AvProp>
+      <AvProp id="MONI" name="iOGLDeviceName" type="string">Quadro FX 570//PCIe//SSE2</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">11</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_PERFORMANCE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_SECONDS_TO_PREFILL</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_CONFIDENCE_VIEW</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_STREAM_LIMIT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">12</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_OUTPUT_DVDEVICE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_DIO_DEVICE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_OUTPUT_VIDEOFORMAT</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">5</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_OUTPUT_VCID</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">143</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_REALTIME_ENCODING</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_10BIT_SDPROCESSING</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">MSET_HQ_RT_DECODE_SCALING2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="VIin">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Video Input</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">16</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="VIin" name="iBrightValue" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iContrastValue" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iHueValue" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iSaturationValue" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iSetup" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iTwoFieldRegistration" type="int32">0</AvProp>
+      <AvProp id="VIin" name="iTwoFieldStills" type="int32">0</AvProp>
+      <AvProp id="VIin" name="iInput" type="int16">0</AvProp>
+      <AvProp id="VIin" name="not used" type="int16">0</AvProp>
+      <AvProp id="VIin" name="not used2" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iInputChannel" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iYBlack" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iYGain" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iRYGain" type="int16">0</AvProp>
+      <AvProp id="VIin" name="iBYGain" type="int16">0</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">2</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">2</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">VideoInput</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:StringAttribute" type="string">None</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">BARS</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+    <AvClass id="Vout">
+      <AvProp id="ASET" name="name" type="string">Untitled</AvProp>
+      <AvProp id="ASET" name="kind" type="string">Video Output</AvProp>
+      <AvProp id="ASET" name="attributes" type="int16">17</AvProp>
+      <AvProp id="ASET" name="type" type="int16">32</AvProp>
+      <AvProp id="Vout" name="iOutBlack" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutYBlack" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutYGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutRYGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutBYGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutHPhase" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutSCPhase" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutSCHPhase" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iGenlockChannel" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iSetupPedistal" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iAdvanced" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iCompEnabled" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutBlack" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutYBlack" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutYGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutRYGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutBYGain" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutHPhase" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutSCPhase" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iOutSCHPhase" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iGenlockChannel" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iSetupPedistal" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iAdvanced" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iCompEnabled" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iVITCPassThruEnabled" type="int16">0</AvProp>
+      <AvProp id="Vout" name="iVITCPassThruEnabled" type="int16">0</AvProp>
+      <AvProp id="ASET" name="attrList" type="reference">
+        <AvClass id="ATTR">
+          <AvProp id="ATTR" name="__OMFI:ATTR:NumItems" type="int32">7</AvProp>
+          <List id="OMFI:ATTR:AttrRefs">
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_HW_DECODE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">VIOCtrl_VisPageHD</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">VIOCtrl_VisPage</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">_HW_OUTPUT_RESOLUTION</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">VIOCtrl_VisPageGlobal</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_VOUT_TARGET_MASK</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">1</AvProp>
+            </ListElem>
+            <ListElem>
+              <AvProp id="ATTR" name="OMFI:ATTB:Kind" type="int32">1</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:Name" type="string">ATN_VOUT_TARGET_COLORSPACE</AvProp>
+              <AvProp id="ATTR" name="OMFI:ATTB:IntAttribute" type="int32">0</AvProp>
+            </ListElem>
+            <ListElem/>
+          </List>
+        </AvClass>
+      </AvProp>
+    </AvClass>
+  </Avid:XMLFileData>
+
+</Avid:StreamItems>
